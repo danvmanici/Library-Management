@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Abonat</class>
+ <widget class="QMainWindow" name="Abonat">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>851</width>
+    <height>203</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="butonVizualizareCarti">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>281</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Vizualizare Carti</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="butonFiltrareCarti">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>50</y>
+      <width>151</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Filtrare Carti</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBoxFiltrare">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>50</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>domeniu</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>disponibilitate</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>editura</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>autor</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="butonCautareCarte">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>160</y>
+      <width>151</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cautare Carte</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textCautare">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>160</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="butonStatistici">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>120</y>
+      <width>151</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Statistici</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBoxStatistici">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>120</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>domeniu</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>disponibilitate</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>editura</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>autor</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="butonDeconectare">
+    <property name="geometry">
+     <rect>
+      <x>690</x>
+      <y>60</y>
+      <width>151</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Deconectare</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textAfisare">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>0</y>
+      <width>391</width>
+      <height>201</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textFiltrare">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>90</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

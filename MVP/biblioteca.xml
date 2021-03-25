@@ -1,0 +1,8 @@
+<Biblioteca>
+    <Carte><titlu>Ion</titlu><autor>Liviu Rebreanu</autor><domeniu>bac</domeniu><editura>North</editura><anAparitie>1920</anAparitie><disponibilitate>True</disponibilitate><nrInregistrare>22</nrInregistrare></Carte>
+    <Carte><titlu>Ion</titlu><autor>Liviu Rebreanu</autor><domeniu>bac</domeniu><editura>Alma</editura><anAparitie>1925</anAparitie><disponibilitate>False</disponibilitate><nrInregistrare>24</nrInregistrare></Carte>
+    <Carte><titlu>Luceafarul</titlu><autor>Mihai Eminescu</autor><domeniu>bac</domeniu><editura>Alma</editura><anAparitie>1883</anAparitie><disponibilitate>True</disponibilitate><nrInregistrare>5</nrInregistrare></Carte>
+    <Carte><titlu>Razboiul Lumilor</titlu><autor>Herbert Wells</autor><domeniu>SF</domeniu><editura>North</editura><anAparitie>1894</anAparitie><disponibilitate>True</disponibilitate><nrInregistrare>10</nrInregistrare></Carte>
+    <Carte><titlu>Infanteria Stelara</titlu><autor>Robert Heinlein</autor><domeniu>SF</domeniu><editura>North</editura><anAparitie>1959</anAparitie><disponibilitate>False</disponibilitate><nrInregistrare>15</nrInregistrare></Carte>
+    <Carte><titlu>Totul despre animale</titlu><autor>William Potter</autor><domeniu>animale</domeniu><editura>Coresi</editura><anAparitie>2018</anAparitie><disponibilitate>True</disponibilitate><nrInregistrare>18</nrInregistrare></Carte>
+<Carte><titlu>b</titlu><autor>b</autor><domeniu>b</domeniu><editura>b</editura><anAparitie>b</anAparitie><disponibilitate>True</disponibilitate><nrInregistrare>2</nrInregistrare></Carte></Biblioteca>

@@ -1,0 +1,47 @@
+{
+  "Ion": {
+    "titlu": "Ion",
+    "autor": "Liviu Rebreanu",
+    "domeniu": "bac",
+    "editura": "Alma",
+    "anAparitie": "1925",
+    "disponibilitate": "False",
+    "nrInregistrare": "24"
+  },
+  "Luceafarul": {
+    "titlu": "Luceafarul",
+    "autor": "Mihai Eminescu",
+    "domeniu": "bac",
+    "editura": "Alma",
+    "anAparitie": "1883",
+    "disponibilitate": "True",
+    "nrInregistrare": "5"
+  },
+  "Razboiul Lumilor": {
+    "titlu": "Razboiul Lumilor",
+    "autor": "Herbert Wells",
+    "domeniu": "SF",
+    "editura": "North",
+    "anAparitie": "1894",
+    "disponibilitate": "True",
+    "nrInregistrare": "10"
+  },
+  "Infanteria Stelara": {
+    "titlu": "Infanteria Stelara",
+    "autor": "Robert Heinlein",
+    "domeniu": "SF",
+    "editura": "North",
+    "anAparitie": "1959",
+    "disponibilitate": "False",
+    "nrInregistrare": "15"
+  },
+  "Totul despre animale": {
+    "titlu": "Totul despre animale",
+    "autor": "William Potter",
+    "domeniu": "animale",
+    "editura": "Coresi",
+    "anAparitie": "2018",
+    "disponibilitate": "True",
+    "nrInregistrare": "18"
+  }
+}
